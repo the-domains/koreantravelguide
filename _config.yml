@@ -1,7 +1,7 @@
 name: KoreanTravelGuide
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.2593
+layout_spectrum: 0.26713
+typography_spectrum: 0.66283
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.19964498467743397
+  brandStrength: 0.6875
   lightness: 0.5542133634444326
-  saturation: 0.2668349884916097
-  rhythmicContrast: 0.10537879983894527
+  saturation: 0.5625
+  rhythmicContrast: 0.5
 purpose: []
